@@ -1,0 +1,1 @@
+cargo build --target x86_64-unknown-none.json -Zbuild-std=core -Zbuild-std-features=compiler-builtins-mem
